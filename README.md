@@ -18,6 +18,12 @@
 ## Minhas tecnologias 
 ---------------------
 
+|   Cursos    | Certificados  |
+|-------------|---------------|
+| Git e GitHub| [Certificado](https://hermes.dio.me/certificates/1A6PTWQ0.pdf)|
+| ------------|--------------- |
+
+
 
 
 
