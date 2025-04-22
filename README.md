@@ -1,39 +1,27 @@
 ## Hi there 👋
 
-<!-- Cabeçalhos -->
+## Sejam Bem-Vindos ao meu Mundo!
 
-*italico* ou _italico_
-
-**negrito** 
-
-___NEGRITO E ITALICO___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-1. Lista 1
-2. Lista 2
-   1. Sublista 1
-
-[Texto da imagem](image-1.png)
-
-![Texto da imagem](![alt text](image.png))
-
-`Sistem-out.print()`
-
-```Sistem.out.print(); Sistem.out.print(); Sistem.out.print(); Sistem.out.print(); ```
-
-> Texto da citação 
+![Gif do gatinho](image-2.png)
 
 ---------------------------
 
-| cabeçalho 1 | cabeçalho 2|
-|------------ | -----------|
-| texto 1     | texto 2    |
 
-- [x] Tarefa 1
-- [ ] Tarefa 2
+👩 Olá, eu me chamo Alexsandra Rodrigues. 
+
+📝 Sou formada em Gestão da Tecnologia da Informação, e estudante de programação. 
+
+📫 [Acesse meu Linkedin](https://www.linkedin.com/in/alexsandra-rodrigues-681699192/details/education/)
+
+----------------
+
+## Minhas tecnologias 
+---------------------
+
+
+
+
+
 
 
 
