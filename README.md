@@ -12,6 +12,30 @@ ___NEGRITO E ITALICO___
 - Lista 2
   - Sublista
 
+1. Lista 1
+2. Lista 2
+   1. Sublista 1
+
+[Texto da imagem](image-1.png)
+
+![Texto da imagem](![alt text](image.png))
+
+`Sistem-out.print()`
+
+```Sistem.out.print(); Sistem.out.print(); Sistem.out.print(); Sistem.out.print(); ```
+
+> Texto da citação 
+
+---------------------------
+
+| cabeçalho 1 | cabeçalho 2|
+|------------ | -----------|
+| texto 1     | texto 2    |
+
+- [x] Tarefa 1
+- [ ] Tarefa 2
+
+
 
 <!--
 **AlexsaRodrigues22/AlexsaRodrigues22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
