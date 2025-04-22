@@ -23,7 +23,7 @@
 | Git e GitHub | [Certificado](https://hermes.dio.me/certificates/1A6PTWQ0.pdf) |
 | Python | [Certificado](https://hermes.dio.me/certificates/AQQ6S38J.pdf)|
 
-![Alexsandra Rodrigues Stats](![alt text](api.svg))
+![Alexsandra Rodrigues Stats](api.svg)
 
 
 
